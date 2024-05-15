@@ -1,0 +1,24 @@
+@media screen and (min-width:1024px) {
+    .home-section .overlay .content h1 {
+        font-size: 72px;
+        font-weight: 700;
+    }
+    
+    .home-section .overlay .content p {
+        font-size: 40px;
+        font-weight: 600;
+    }
+
+    .home-section .overlay .content {
+        margin-top: 35vh;
+    }
+
+    .photo-icons .bluee {
+        height: 60vh;
+    }
+
+    .photo-icons .bluee .container {
+        flex-direction: row;
+    }
+
+}
